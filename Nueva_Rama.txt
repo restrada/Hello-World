@@ -1,6 +1,8 @@
 
-Documento de Prueba en la Nueva Rama "Nueva_Rama"
+Documento de Prueba en la Nueva Rama "Nueva_Rama" para combrobar el Merge
 
-Estoy editando este archivo de texto para saber los conflictos
+Estoy editando este archivo de texto para saber los conflictos, deben reflejarse en una pantalla
 
 No. Empleado: 12356
+
+jhdsfihdasyhfdsfjhdsokjhpuiyyuohyhf5ry7156468456849568498
