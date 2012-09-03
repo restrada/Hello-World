@@ -4,3 +4,5 @@ Documento de Prueba en la Nueva Rama "Nueva_Rama"
 Estoy editando este archivo de texto para saber los conflictos
 
 No. Empleado: 12356
+
+nueva modificacion para causar un conflicto
